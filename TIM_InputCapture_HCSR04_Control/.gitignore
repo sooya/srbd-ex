@@ -1,0 +1,8 @@
+#ignore global
+.gitignore
+*.bin
+*.elf
+*.lss
+*.map
+*.sym
+obj.*
